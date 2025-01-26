@@ -8,7 +8,7 @@
 
 ## About me
 
-Hi there 👋. I'm Nandana Mini. Aspiring AI specialist with a Bachelor of Computer Applications (BCA) degree specializing in Artificial Intelligence. Passionate about leveraging AI technologies to solve real-world problems and committed to continuous learning and professional development.I strongly believe i have a strong foundation in development and programming.
+Hi there 👋. I'm Nandana Mini. Aspiring AI specialist with a Bachelor of Computer Applications (BCA) degree specializing in Artificial Intelligence. Passionate about leveraging AI technologies to solve real-world problems and committed to continuous learning and professional development.I believe i have a strong foundation in development and programming.
 ## Get in touch :coffee:
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandana-mini-1ba1b1246)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.nandanaa/)
