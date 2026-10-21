@@ -1,179 +1,112 @@
 
-<!-- 🎀 FEMININE PINK & LAVENDER GITHUB PROFILE 🎀 -->
+<!-- HEADER -->
 
-<div align="center">
+<h1 align="center">NANDANA MINI</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:FFD6E7,50:E6D9FF,100:FFF0F5&text=Nandana%20Mini&fontSize=55&fontColor=8D6688&fontAlignY=45&desc=AI%20%26%20Data%20Analytics%20Enthusiast&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Nandana Mini profile banner"/>
+<h3 align="center">AI • MACHINE LEARNING • DATA ANALYTICS</h3>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions.;Turning+data+into+insights.;Learning.+Building.+Evolving.;Welcome+to+my+digital+space." alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2800&pause=1000&color=C084B8&center=true&vCenter=true&width=550&lines=creating+with+curiosity+%E2%9C%A7;dreaming+in+data+%F0%9F%8E%80;learning+AI%2C+one+project+at+a+time+%E2%99%A1;little+steps%2C+big+dreams+%F0%9F%8C%B7" alt="Typing animation"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nandanamini&label=lovely+visitors&color=E8A9C9&style=flat-square" alt="Profile visitors"/>
-
-<br/><br/>
-
-♡ &nbsp; *a little creativity, a lot of curiosity, and endless possibilities* &nbsp; ♡
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandanamini&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
 
-<div align="center">
+## `whoami`
 
-## 🌷 a little about me
+```python
+class NandanaMini:
+    def __init__(self):
+        self.education = [
+            "BCA - Artificial Intelligence",
+            "MSc - Big Data Analytics"
+        ]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Analytics",
+            "Big Data"
+        ]
+        self.current_focus = "Building real-world projects"
+        self.motto = "Think. Build. Iterate."
 
-</div>
+    def say_hello(self):
+        return "Always learning. Always evolving."
 
-Hi, I'm **Nandana Mini** ♡
+me = NandanaMini()
+```
 
-🎓 BCA graduate specializing in Artificial Intelligence, currently pursuing an MSc in Big Data Analytics.
+## ⚡ Tech Stack
 
-🩷 Passionate about AI, machine learning, data storytelling, and building things that make a difference.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode&theme=dark" alt="Programming and development tools" />
+</p>
 
-🧸 I love turning complex ideas into practical, meaningful projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=00F7FF" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=00F7FF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=00F7FF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Hadoop-111827?style=for-the-badge&logo=apachehadoop&logoColor=00F7FF" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+</p>
 
-🌸 Currently exploring big data technologies, cloud computing, and machine learning.
-
-✨ Believer in growing at my own pace and making every little step count.
-
-<br/>
-
-<div align="center">
-
-`she/her` &nbsp; ✧ &nbsp; `lifelong learner` &nbsp; ✧ &nbsp; `future AI professional`
-
-</div>
-
----
-
-<div align="center">
-
-## 🎀 my tech universe
-
-*tools I use and technologies I'm exploring*
-
-<br/>
-
-### ♡ languages & development
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=light" alt="Programming languages"/>
-
-### ♡ data & intelligence
-
-<img src="https://img.shields.io/badge/Machine%20Learning-EADCF8?style=for-the-badge&logo=scikitlearn&logoColor=78558C" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Pandas-F5D7E8?style=for-the-badge&logo=pandas&logoColor=875577" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-E2DDFB?style=for-the-badge&logo=numpy&logoColor=6654A0" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-FCE4EC?style=for-the-badge&logo=python&logoColor=AD648D" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Generative%20AI-F9DCEB?style=for-the-badge&logo=openai&logoColor=9A648F" alt="Generative AI"/>
-
-### ♡ big data & tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kafka,hadoop,git,github,vscode&theme=light" alt="Big data and development tools"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F7E7A9?style=for-the-badge&logo=powerbi&logoColor=8A7130" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-D7EEDC?style=for-the-badge&logo=microsoftexcel&logoColor=39734B" alt="Excel"/>
-<img src="https://img.shields.io/badge/Hive-E5E0FA?style=for-the-badge&logo=apachehive&logoColor=6D5B9A" alt="Hive"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🩰 little things i've built
-
-*turning ideas into something real*
-
-</div>
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌿 Burnout Compass</h3>
-
-<div align="center">
-  
-A machine-learning-powered wellness application exploring burnout risk across employees, healthcare workers, and students.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-E8DDF8?style=flat-square&logo=python&logoColor=72549C"/>
-<img src="https://img.shields.io/badge/ML-F8DDEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FCE7F3?style=flat-square&logo=streamlit&logoColor=B95D8C"/>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ EV Analytics</h3>
-
-<div align="center">
-
-An interactive Power BI dashboard exploring electric vehicle range, battery specifications, performance, and efficiency.
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F7E7B5?style=flat-square&logo=powerbi&logoColor=8A7130"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-E2DDFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Visualization-F8DDEB?style=flat-square"/>
-
-</div>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">01 / Burnout Compass</h3>
+      <p align="center">
+        Machine learning application exploring burnout risk and wellness support for employees, healthcare workers, and students.
+      </p>
+      <p align="center">
+        <code>Python</code> <code>Scikit-learn</code> <code>Streamlit</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">02 / EV Analytics</h3>
+      <p align="center">
+        Interactive dashboard analysing electric vehicle range, specifications, performance, and efficiency.
+      </p>
+      <p align="center">
+        <code>Power BI</code> <code>Data Analytics</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
+## 📊 GitHub Analytics
 
-♡ *every project is another step forward* ♡
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nandanamini&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanamini&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top programming languages" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-## 💌 my GitHub diary
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandanamini&show_icons=true&theme=default&hide_border=true&bg_color=FFF7FB&title_color=C078A5&text_color=806D83&icon_color=D994BE&rank_icon=github" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanamini&layout=compact&theme=default&hide_border=true&bg_color=FFF7FB&title_color=C078A5&text_color=806D83" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nandanamini&theme=default&hide_border=true&background=FFF7FB&ring=D994BE&fire=E9A0C5&currStreakLabel=C078A5&sideLabels=806D83&currStreakNum=806D83&sideNums=806D83&dates=B49EB3" alt="Contribution streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nandanamini&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-## 🦢 let's be mutuals
+<p align="center">
+  <a href="https://www.linkedin.com/in/nandana-mini-1ba1b1246">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_.nandanaa/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF" alt="Instagram" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/nandana-mini-1ba1b1246">
-<img src="https://img.shields.io/badge/LinkedIn-let's%20connect-E8DDF8?style=for-the-badge&logo=linkedin&logoColor=8D6BA6" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/_.nandanaa/">
-<img src="https://img.shields.io/badge/Instagram-say%20hello-F8DDEB?style=for-the-badge&logo=instagram&logoColor=B66C98" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://github.com/nandanamini">
-<img src="https://img.shields.io/badge/GitHub-stay%20a%20while-EADCF8?style=for-the-badge&logo=github&logoColor=8D6BA6" alt="GitHub"/>
-</a>
+<p align="center">
+  <samp>「 Think different. Build something meaningful. 」</samp>
+</p>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:E6D9FF,100:FFD6E7&height=120&section=footer" width="100%" alt="Pink and lavender footer"/>
-
-**made with ♡, curiosity & a little bit of magic**
-
-*keep blooming, keep building* 🌷
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:111827&height=3&section=footer" width="100%" alt="Footer accent" />
+</p>
