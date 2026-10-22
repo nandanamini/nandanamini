@@ -103,5 +103,5 @@ An interactive Power BI dashboard analysing electric vehicle range, battery spec
 <samp>CONNECTION ESTABLISHED. THE SYSTEM IS ALWAYS EVOLVING.</samp>
 
 </div>
- fix and giveeeeee
+ 
  
