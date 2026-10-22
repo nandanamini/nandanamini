@@ -7,13 +7,13 @@
 
 <br/>
 
-<h1> N A N D A N A &nbsp; M I N I </h1>
+<h1>N A N D A N A &nbsp; M I N I</h1>
 
 <p>
   <samp>AI ENGINEERING &nbsp; // &nbsp; DATA INTELLIGENCE &nbsp; // &nbsp; DEVELOPMENT</samp>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" alt="Neon green divider"/>
+<hr/>
 
 </div>
 
@@ -45,6 +45,8 @@ Exploring the intersection of intelligent systems and data. Interested in turnin
   <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=39FF14" alt="AWS"/>
 </p>
 
+---
+
 ## `> deployed_projects`
 
 <table>
@@ -55,9 +57,9 @@ Exploring the intersection of intelligent systems and data. Interested in turnin
 
 A machine learning application exploring burnout risk and wellness support across employee, healthcare, and student domains.
 
-<br/>
+<br/><br/>
 
-`PYTHON` &nbsp; `ML` &nbsp; `STREAMLIT`
+<code>PYTHON</code> <code>ML</code> <code>STREAMLIT</code>
 
 </td>
 <td width="50%" valign="top">
@@ -66,21 +68,23 @@ A machine learning application exploring burnout risk and wellness support acros
 
 An interactive Power BI dashboard analysing electric vehicle range, battery specifications, performance, and efficiency.
 
-<br/>
+<br/><br/>
 
-`POWER BI` &nbsp; `ANALYTICS`
+<code>POWER BI</code> <code>ANALYTICS</code>
 
 </td>
 </tr>
 </table>
 
+---
+
 ## `> current_operations`
 
 ```text
-[ RUNNING ]  Exploring machine learning workflows
-[ RUNNING ]  Developing data analytics projects
-[ RUNNING ]  Expanding big data and cloud knowledge
-[ RUNNING ]  Turning ideas into working applications
+[ ACTIVE ]  Exploring machine learning workflows
+[ ACTIVE ]  Developing data analytics projects
+[ ACTIVE ]  Expanding big data and cloud knowledge
+[ ACTIVE ]  Turning ideas into working applications
 ```
 
 ## `> establish_connection`
@@ -99,8 +103,8 @@ An interactive Power BI dashboard analysing electric vehicle range, battery spec
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=footer" width="100%" alt="Neon green footer divider"/>
+<hr/>
 
-<samp>CONNECTION ESTABLISHED. THE SYSTEM IS ALWAYS EVOLVING.</samp>
+<samp> &lt;/&gt; END OF FILE // NANDANA MINI </samp>
 
 </div>
