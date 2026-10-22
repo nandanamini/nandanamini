@@ -1,177 +1,107 @@
-
-<!--
-  ███ MATRIX PORTFOLIO ███
-  NANDANA MINI // DEVELOPER PROFILE
--->
+<!-- MATRIX // NANDANA MINI -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1800&pause=500&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+BOOTING+NANDANA_MINI...;%3E+LOADING+AI+MODULES...;%3E+INITIALIZING+DATA+SYSTEMS...;%3E+ALL+SYSTEMS+OPERATIONAL+%5BOK%5D" alt="System initialization"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=INITIALIZING+NANDANA_MINI...;ARTIFICIAL+INTELLIGENCE+%2F%2F+DATA;ACCESSING+THE+NEXT+LEVEL...;SYSTEM+ONLINE+%5BOK%5D" alt="Matrix terminal animation"/>
 
 <br/>
 
-<h1>NANDANA <span>MINI</span></h1>
+<h1> N A N D A N A &nbsp; M I N I </h1>
 
 <p>
-  <code>AI ENGINEERING</code> &nbsp; // &nbsp;
-  <code>DATA INTELLIGENCE</code> &nbsp; // &nbsp;
-  <code>DEVELOPMENT</code>
+  <samp>AI ENGINEERING &nbsp; // &nbsp; DATA INTELLIGENCE &nbsp; // &nbsp; DEVELOPMENT</samp>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nandanamini&style=flat-square&color=39FF14&label=SYSTEM+VISITORS" alt="Profile visitors"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%" alt="Neon green divider"/>
 
 </div>
 
----
-
-## `01 // IDENTITY`
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### `> whoami`
-
-Hey, I'm **Nandana Mini** — an AI enthusiast and data analytics student interested in building intelligent, useful applications.
-
-Currently pursuing an MSc in Big Data Analytics after completing a BCA specializing in Artificial Intelligence.
-
-I enjoy exploring data, experimenting with machine learning, and turning ideas into working projects.
-
-</td>
-<td width="40%" valign="top">
-
-### `> system_info`
+## `> whoami`
 
 ```text
-USER       nandana-mini
-DEGREE     BCA / AI
-CURRENT    MSc / Big Data
-DOMAIN     AI + DATA
-MODE       BUILDING
+NAME       : Nandana Mini
+EDUCATION  : BCA — Artificial Intelligence
+CURRENTLY  : MSc — Big Data Analytics
+INTERESTS  : AI / ML / DATA / TECHNOLOGY
+STATUS     : LEARNING // BUILDING // EVOLVING
 ```
 
-</td>
-</tr>
-</table>
+Exploring the intersection of intelligent systems and data. Interested in turning complex problems into practical solutions through machine learning, analytics, and software development.
 
-## `02 // ARSENAL`
+## `> tech_stack`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode&theme=dark" alt="Core technology stack"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode&theme=dark" alt="Programming languages and development tools"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PANDAS-0B0F0C?style=for-the-badge&logo=pandas&logoColor=39FF14" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NUMPY-0B0F0C?style=for-the-badge&logo=numpy&logoColor=39FF14" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-0B0F0C?style=for-the-badge&logo=scikitlearn&logoColor=F89939" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/POWER_BI-0B0F0C?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/STREAMLIT-0B0F0C?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/HADOOP-0B0F0C?style=for-the-badge&logo=apachehadoop&logoColor=39FF14" alt="Hadoop"/>
-  <img src="https://img.shields.io/badge/AWS-0B0F0C?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=39FF14" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=39FF14" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-0A0A0A?style=flat-square&logo=scikitlearn&logoColor=39FF14" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Power_BI-0A0A0A?style=flat-square&logo=powerbi&logoColor=39FF14" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=flat-square&logo=streamlit&logoColor=39FF14" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Hadoop-0A0A0A?style=flat-square&logo=apachehadoop&logoColor=39FF14" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=39FF14" alt="AWS"/>
 </p>
 
-<p align="center">
-  <sub>CORE TOOLS // DATA // MACHINE LEARNING // BIG DATA</sub>
-</p>
-
----
-
-## `03 // PROJECT_DATABASE`
+## `> deployed_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🟢 BURNOUT COMPASS</h3>
+<h3>01 // BURNOUT COMPASS</h3>
 
-<code>PROJECT_001</code>
+A machine learning application exploring burnout risk and wellness support across employee, healthcare, and student domains.
 
-A multi-domain machine learning application exploring burnout risk and providing personalized wellness guidance for employees, healthcare workers, and students.
+<br/>
 
-**Built with**
-
-`Python` `Scikit-learn` `Streamlit`
+`PYTHON` &nbsp; `ML` &nbsp; `STREAMLIT`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔵 EV ANALYTICS</h3>
+<h3>02 // EV ANALYTICS</h3>
 
-<code>PROJECT_002</code>
+An interactive Power BI dashboard analysing electric vehicle range, battery specifications, performance, and efficiency.
 
-An interactive dashboard exploring electric vehicle range, battery specifications, speed, acceleration, and efficiency to make vehicle data easier to understand.
+<br/>
 
-**Built with**
-
-`Power BI` `Data Analytics` `Visualization`
+`POWER BI` &nbsp; `ANALYTICS`
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <code>02 PROJECTS LISTED // MORE EXPERIMENTS IN PROGRESS</code>
-</p>
-
-## `04 // LIVE_TERMINAL`
+## `> current_operations`
 
 ```text
-nandana@portfolio:~$ cat current_focus.txt
-
-[01] Machine Learning & model evaluation
-[02] Big Data Analytics
-[03] Cloud and data technologies
-[04] Building practical applications
-
-nandana@portfolio:~$ echo "keep building"
-keep building_
+[ RUNNING ]  Exploring machine learning workflows
+[ RUNNING ]  Developing data analytics projects
+[ RUNNING ]  Expanding big data and cloud knowledge
+[ RUNNING ]  Turning ideas into working applications
 ```
 
-## `05 // NEXT_OBJECTIVES`
+## `> establish_connection`
 
-<details>
-<summary><b>▸ Expand the knowledge base</b></summary>
-
-- Strengthen machine learning and model evaluation skills.
-- Explore Apache Spark, Kafka, and cloud technologies.
-- Improve deployment and software development workflows.
-
-</details>
-
-<details>
-<summary><b>▸ Build better projects</b></summary>
-
-- Create practical applications that address real-world problems.
-- Improve project documentation and user experience.
-- Learn from experiments, mistakes, and feedback.
-
-</details>
-
----
-
-## `06 // ESTABLISH_CONNECTION`
-
-<p align="center">
+<p>
   <a href="https://github.com/nandanamini">
-    <img src="https://img.shields.io/badge/GITHUB-0B0F0C?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/nandana-mini-1ba1b1246">
-    <img src="https://img.shields.io/badge/LINKEDIN-0B0F0C?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_.nandanaa/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0B0F0C?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=39FF14" alt="Instagram"/>
   </a>
 </p>
 
 <div align="center">
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=footer" width="100%" alt="Neon green footer divider"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=SESSION+ACTIVE...;KEEP+EXPLORING.;END_OF_FILE_%5B nandana-mini %5D" alt="Terminal shutdown animation"/>
-
-<sub>DESIGNED IN CODE // POWERED BY CURIOSITY</sub>
+<samp>CONNECTION ESTABLISHED. THE SYSTEM IS ALWAYS EVOLVING.</samp>
 
 </div>
+ fix and giveeeeee
+ 
